@@ -21,7 +21,7 @@
 
 ## :smiley: Aplicação React Native utilizando a https://www.thecocktaildb.com.
 
-- Fluxo da aplicação seguindo Categorias => Drinks => Detalhes.
+- Fluxo da aplicação seguindo Categorias → Drinks → Detalhes.
 
 ## :cold_sweat: Desafios encontrados:
 
