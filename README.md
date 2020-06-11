@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="img1" src="https://i.imgur.com/SO8Z0PS.jpg" width="200" heigth="416" />
-    <img alt="img2" src="https://i.imgur.com/4t4pkJT.jpg" width="200" heigth="416" />
-    <img alt="img3" src="https://i.imgur.com/OaIPYcF.jpg" width="200" heigth="416" />
-    <img alt="img4" src="https://i.imgur.com/C6dOXBA.jpg" width="200" heigth="416" />
-    <img alt="img5" src="https://i.imgur.com/fQdjkHj.jpg" width="200" heigth="416" />
+    <img alt="img1" src="https://i.imgur.com/SO8Z0PS.jpg" width="150" heigth="366" />
+    <img alt="img2" src="https://i.imgur.com/4t4pkJT.jpg" width="150" heigth="366" />
+    <img alt="img3" src="https://i.imgur.com/OaIPYcF.jpg" width="150" heigth="366" />
+    <img alt="img4" src="https://i.imgur.com/C6dOXBA.jpg" width="150" heigth="366" />
+    <img alt="img5" src="https://i.imgur.com/fQdjkHj.jpg" width="150" heigth="366" />
     
 </h1>
 
