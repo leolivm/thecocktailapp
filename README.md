@@ -13,12 +13,6 @@
 
 <blockquote align="center">Aplicação para teste de vaga mazza.tech.</blockquote>
 
-<p align="center">
-  <a href="http://sgeinformatica.com.br/">
-    <img alt="Made by Sge" src="https://i.imgur.com/Dm7Xym9.png" width="70" heigth="20">
-  </a>
-</p>
-
 ## :smiley: Aplicação React Native utilizando a https://www.thecocktaildb.com.
 
 - Fluxo da aplicação seguindo Categorias → Drinks → Detalhes.
