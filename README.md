@@ -13,7 +13,7 @@
 
 <blockquote align="center">Aplicação para teste de vaga mazza.tech.</blockquote>
 
-## :smiley:     Aplicação React Native utilizando a https://www.thecocktaildb.com.
+## :smiley: Aplicação React Native utilizando a https://www.thecocktaildb.com.
 
 - Fluxo da aplicação seguindo Categorias → Drinks → Detalhes.
 
